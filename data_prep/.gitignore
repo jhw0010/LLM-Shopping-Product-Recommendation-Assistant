@@ -5,3 +5,4 @@ __pycache__/
 .pytest_cache/
 backups/*.dump
 backups/*.dump.gz
+./amazon_products_with_main_category.csv
